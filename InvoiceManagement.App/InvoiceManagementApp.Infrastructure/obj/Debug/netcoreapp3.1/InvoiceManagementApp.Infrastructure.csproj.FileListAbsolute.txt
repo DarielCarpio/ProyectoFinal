@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\Programacion 2\Proyecto programacion 2\InvoiceManagement.App\InvoiceManagementApp.Infrastructure\bin\Debug\netcoreapp3.1\InvoiceManagementApp.Infrastructure.deps.json
+C:\Users\Lenovo\Desktop\Programacion 2\Proyecto programacion 2\InvoiceManagement.App\InvoiceManagementApp.Infrastructure\bin\Debug\netcoreapp3.1\InvoiceManagementApp.Infrastructure.dll
+C:\Users\Lenovo\Desktop\Programacion 2\Proyecto programacion 2\InvoiceManagement.App\InvoiceManagementApp.Infrastructure\obj\Debug\netcoreapp3.1\InvoiceManagementApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Programacion 2\Proyecto programacion 2\InvoiceManagement.App\InvoiceManagementApp.Infrastructure\obj\Debug\netcoreapp3.1\InvoiceManagementApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Programacion 2\Proyecto programacion 2\InvoiceManagement.App\InvoiceManagementApp.Infrastructure\obj\Debug\netcoreapp3.1\InvoiceManagementApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Programacion 2\Proyecto programacion 2\InvoiceManagement.App\InvoiceManagementApp.Infrastructure\obj\Debug\netcoreapp3.1\InvoiceManagementApp.Infrastructure.csproj.CoreCompileInputs.cache
